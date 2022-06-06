@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/clothing-project/static/css/main.d4495987.chunk.css",
+    "main.js": "/clothing-project/static/js/main.a73086d4.chunk.js",
+    "main.js.map": "/clothing-project/static/js/main.a73086d4.chunk.js.map",
+    "runtime-main.js": "/clothing-project/static/js/runtime-main.9d635a8d.js",
+    "runtime-main.js.map": "/clothing-project/static/js/runtime-main.9d635a8d.js.map",
+    "static/js/2.126a8c86.chunk.js": "/clothing-project/static/js/2.126a8c86.chunk.js",
+    "static/js/2.126a8c86.chunk.js.map": "/clothing-project/static/js/2.126a8c86.chunk.js.map",
+    "index.html": "/clothing-project/index.html",
+    "static/css/main.d4495987.chunk.css.map": "/clothing-project/static/css/main.d4495987.chunk.css.map",
+    "static/js/2.126a8c86.chunk.js.LICENSE.txt": "/clothing-project/static/js/2.126a8c86.chunk.js.LICENSE.txt",
+    "static/media/083 crown.3a4e2b15.svg": "/clothing-project/static/media/083 crown.3a4e2b15.svg",
+    "static/media/111 shopping-bag.a688874f.svg": "/clothing-project/static/media/111 shopping-bag.a688874f.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9d635a8d.js",
+    "static/js/2.126a8c86.chunk.js",
+    "static/css/main.d4495987.chunk.css",
+    "static/js/main.a73086d4.chunk.js"
+  ]
+}
